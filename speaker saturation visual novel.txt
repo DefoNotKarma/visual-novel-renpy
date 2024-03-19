@@ -1,0 +1,23 @@
+// 9S speaking
+
+    show s at right,sat:
+        ypos 1.2
+        zoom 1.14
+        xpos 1.05
+    with Dissolve(1)
+
+    show b at left, unsat:
+        yalign 1.2
+    with Dissolve(1)
+
+// 2b speaking
+
+    show s at right,unsat:
+        ypos 1.2
+        zoom 1.14
+        xpos 1.05
+    with Dissolve(1)
+
+    show b at left, sat:
+        yalign 1.2
+    with Dissolve(1)
